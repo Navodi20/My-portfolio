@@ -1,4 +1,3 @@
-
 import NavLink from "./NavLink";
 
 const MenuOverlay = ({ links }) => {
