@@ -64,7 +64,7 @@ const HeroSection = () => {
           <div className="relative rounded-full bg-gradient-to-r from-[#181818] via-[#282828] to-[#181818] p-1 w-[250px] h-[250px] lg:w-[400px] lg:h-[400px]">
           <div className="rounded-full bg-[#181818] w-full h-full relative overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
             <Image
-              src="/images/image.png"
+              src="./images/image.png"
               alt="image"
               className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 scale-100 hover:scale-110 transition-transform duration-300"
               width={300}
