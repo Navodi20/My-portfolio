@@ -32,7 +32,7 @@ const ContactSection = () => {
           <Link href="https://www.linkedin.com/in/navodi-dhananjana-12084b2a7/" aria-label="LinkedIn Profile">
             <Image src={LinkedinIcon} alt="Linkedin Icon" width={40} height={40} />
           </Link>
-          <Link href="mailto:your.navodidhananjana2002@example.com" aria-label="Email Address">
+          <Link href="mailto:navodidhananjana2002@gmail.com" aria-label="Email Address">
             <Image src={EmailIcon} alt="Email Icon" width={40} height={40} />
           </Link>
         </div>
